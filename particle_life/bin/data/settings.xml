@@ -1,4 +1,11 @@
 <?xml version="1.0"?>
-<Green>
-	<bounded>1</bounded>
-</Green>
+<Settings>
+	<Bounded>1</Bounded>
+	<Show_Model>1</Show_Model>
+	<Green>
+		<number>1268</number>
+	</Green>
+	<Red>
+		<number>855</number>
+	</Red>
+</Settings>
